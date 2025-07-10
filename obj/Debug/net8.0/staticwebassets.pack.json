@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/obj/Debug/net8.0/scopedcss/projectbundle/PORTFOLIO.bundle.scp.css",
+      "PackagePath": "staticwebassets/PORTFOLIO.bundle.scp.css"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/book.png",
+      "PackagePath": "staticwebassets/images/book.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/c_sharp.png",
+      "PackagePath": "staticwebassets/images/c_sharp.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/calc.png",
+      "PackagePath": "staticwebassets/images/calc.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/css.png",
+      "PackagePath": "staticwebassets/images/css.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/email.png",
+      "PackagePath": "staticwebassets/images/email.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/game.png",
+      "PackagePath": "staticwebassets/images/game.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/github.png",
+      "PackagePath": "staticwebassets/images/github.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/gym.png",
+      "PackagePath": "staticwebassets/images/gym.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/html.png",
+      "PackagePath": "staticwebassets/images/html.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/java_script.png",
+      "PackagePath": "staticwebassets/images/java_script.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/linkedin.png",
+      "PackagePath": "staticwebassets/images/linkedin.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/linux.png",
+      "PackagePath": "staticwebassets/images/linux.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/ninja.png",
+      "PackagePath": "staticwebassets/images/ninja.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/node.png",
+      "PackagePath": "staticwebassets/images/node.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/perfil.jpeg",
+      "PackagePath": "staticwebassets/images/perfil.jpeg"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/phone.png",
+      "PackagePath": "staticwebassets/images/phone.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/pinguin.png",
+      "PackagePath": "staticwebassets/images/pinguin.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/programacao.png",
+      "PackagePath": "staticwebassets/images/programacao.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/qr_code.png",
+      "PackagePath": "staticwebassets/images/qr_code.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/react.png",
+      "PackagePath": "staticwebassets/images/react.png"
+    },
+    {
+      "Id": "/home/lucas/Documentos/ESTUDO/PROJETOS/TODO/PORTFOLIO/PORTFOLIO/wwwroot/images/whatsapp.png",
+      "PackagePath": "staticwebassets/images/whatsapp.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PORTFOLIO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PORTFOLIO.props",
+      "PackagePath": "build\\PORTFOLIO.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PORTFOLIO.props",
+      "PackagePath": "buildMultiTargeting\\PORTFOLIO.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PORTFOLIO.props",
+      "PackagePath": "buildTransitive\\PORTFOLIO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
